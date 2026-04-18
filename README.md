@@ -37,9 +37,16 @@ This project demonstrates how customer segmentation can:
 
 ---
 
-## 📂 Project Notebook
+## 📂 Project Structure
 
-🔗 [View Full Python Analysis Notebook (EDA + RFM Segmentation)](./Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb)
+```text
+customer-behaviour-revenue-analysis-rfm/
+│
+├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
+├── rfm_executive_visual.png
+├── inferaiq_logo.png
+├── inferaiq_banner_premium.png
+└── README.md
 
 ---
 
