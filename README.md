@@ -15,7 +15,7 @@ By applying **RFM (Recency, Frequency, Monetary) segmentation**, the analysis un
 
 ---
 
-## 📂 Project Notebook
+## 📓 Project Notebook
 
 🔗 [View Full Python Analysis Notebook](./Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb)
 
