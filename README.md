@@ -15,6 +15,12 @@ By applying **RFM (Recency, Frequency, Monetary) segmentation**, the analysis un
 
 ---
 
+## 📂 Project Notebook
+
+🔗 [View Full Python Analysis Notebook](./Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb)
+
+---
+
 ## ❓ Business Questions
 
 * Which customer segments generate the most revenue?
