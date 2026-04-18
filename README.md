@@ -12,15 +12,13 @@
 
 ## 📌 Overview
 
-This project analyzes customer behavior and sales performance using the Superstore dataset to identify key revenue drivers and segment customers using RFM (Recency, Frequency, Monetary) analysis.
-
-The objective is to generate actionable insights that support data-driven decision-making, improve customer retention, and optimize business performance.
+This project analyzes customer behavior and sales performance using the Superstore dataset to identify key revenue drivers and segment customers using **RFM (Recency, Frequency, Monetary) analysis**.
 
 ---
 
 ## 📂 Project Notebook
 
-🔗 View Full Python Analysis Notebook (EDA + RFM Segmentation)
+🔗 [View Full Analysis Notebook](./Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb)
 
 ---
 
@@ -34,32 +32,12 @@ The objective is to generate actionable insights that support data-driven decisi
 
 ---
 
-## 📊 Key Analysis
+## 📊 Key Insights
 
-- Conducted exploratory data analysis (EDA) to uncover sales trends and profit patterns  
-- Engineered features such as shipping delays and time-based metrics  
-- Applied RFM segmentation to classify customers based on value and behavior  
-- Analyzed revenue contribution across customer segments  
-- Built an executive-level visualization for stakeholder communication  
-
----
-
-## 📌 Key Insights
-
-- Revenue is concentrated among high-value customers, with Champions contributing ~35%  
-- At Risk and Other segments represent both revenue opportunities and retention risk  
-- Discounts show a negative relationship with profit in several cases  
-- Shipping delays may impact customer experience  
-- A small proportion of customers drives a large share of revenue (Pareto principle)  
-
----
-
-## 🚀 Business Recommendations
-
-- Prioritize retention and upselling for high-value customers  
-- Re-engage At Risk customers through targeted campaigns  
-- Optimize discount strategies to protect profit margins  
-- Improve logistics performance to enhance customer satisfaction  
+- Champions contribute ~35% of total revenue  
+- High-value customers drive business performance  
+- Discounts negatively impact profit in several cases  
+- Pareto principle observed  
 
 ---
 
@@ -75,29 +53,19 @@ The objective is to generate actionable insights that support data-driven decisi
 
 ---
 
-## 🧠 Skills Demonstrated
-
-- Data Cleaning & Feature Engineering  
-- Exploratory Data Analysis (EDA)  
-- Customer Segmentation (RFM Analysis)  
-- Data Visualization & Storytelling  
-- Business Insight Development  
-
----
-
 ## 📂 Project Structure
 
 customer-behaviour-revenue-analysis-rfm/
 │
-├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
-├── rfm_executive_visual.png
-├── inferaiq_logo.png
-└── README.md
+├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb  
+├── rfm_executive_visual.png  
+├── inferaiq_logo.png  
+└── README.md  
 
 ---
 
 ## 👤 Author
 
 Daniel Damilola Amosun  
-Data Analyst | Aspiring Data Scientist  
-InferaIQ
+Data Analyst  
+🧠 InferaIQ
