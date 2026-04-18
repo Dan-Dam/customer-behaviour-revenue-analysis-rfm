@@ -56,6 +56,7 @@ This project analyzes customer behavior and sales performance using the Supersto
 ## 📂 Project Structure
 
 customer-behaviour-revenue-analysis-rfm/
+
 │
 ├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb  
 ├── rfm_executive_visual.png  
