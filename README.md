@@ -100,4 +100,4 @@ customer-behaviour-revenue-analysis-rfm/
 
 Daniel Damilola Amosun  
 Data Analyst | Aspiring Data Scientist  
-🧠 InferaIQ
+InferaIQ
