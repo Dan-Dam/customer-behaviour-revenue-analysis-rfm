@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Customer Behaviour & Revenue Analysis Using RFM Segmentation</h1>
-
-<p align="center">
-  <em>Data Intelligence | Analytics | Business Insights</em>
 </p>
 
 ---
@@ -134,36 +131,3 @@ customer-behaviour-revenue-analysis-rfm/
 **Daniel Damilola Amosun**  
 Data Analyst | Aspiring Data Scientist  
 <img src="./inferaiq_logo.png" width="120"/>
-
-
-<p align="center">
-  <img src="./inferaiq_banner_premium.png"/>
-</p>
-
-<h1 align="center">Customer Behaviour & Revenue Analysis Using RFM Segmentation</h1>
-
-<p align="center">
-  <em>Data Intelligence | Analytics | Business Insights</em>
-</p>
-
----
-
-
----
-
-## 📂 Project Structure
-
-customer-behaviour-revenue-analysis-rfm/
-│
-├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
-├── rfm_executive_visual.png
-├── inferaiq_logo.png
-├── inferaiq_banner_premium.png
-└── README.md
-
----
-
-## 👤 Author
-
-**Daniel Damilola Amosun**
-Data Analyst | Aspiring Data Scientist <img src="./inferaiq_logo.png" width="90"/>
