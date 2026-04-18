@@ -118,7 +118,8 @@ customer-behaviour-revenue-analysis-rfm/
 ├── rfm_executive_visual.png
 ├── inferaiq_logo.png
 ├── inferaiq_banner_premium.png
-└── README.md ---
+└── README.md
+
 
 ---
 
