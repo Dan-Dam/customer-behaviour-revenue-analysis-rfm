@@ -117,10 +117,9 @@ The chart below shows revenue distribution across customer segments, highlightin
 
 ## 📂 Project Structure
 
-
 customer-behaviour-revenue-analysis-rfm/
 
-
+│
 ├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
 ├── rfm_executive_visual.png
 ├── inferaiq_logo.png
