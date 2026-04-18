@@ -72,3 +72,11 @@ Data Analyst | Aspiring Data Scientist
 <p align="left">
   <img src="./inferaiq_logo.png" width="120"/>
 </p>
+
+## 👤 Author
+
+<p>
+  <strong>Daniel Damilola Amosun</strong><br>
+  <span>Data Analyst | Aspiring Data Scientist</span><br>
+  <img src="./inferaiq_logo.png" width="100"/>
+</p>
