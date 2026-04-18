@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./inferaiq_banner.png" width="160"/>
+  <img src="./inferaiq_banner.png" width="600"/>
 </p>
 
 <h1 align="center">Customer Behaviour & Revenue Analysis Using RFM Segmentation</h1>
