@@ -127,4 +127,4 @@ customer-behaviour-revenue-analysis-rfm/
 ## 👤 Author
 **Daniel Damilola Amosun**  
 Data Analyst | Aspiring Data Scientist  
-<img src="./inferaiq_logo.png" width="120"/>
+<img src="./inferaiq_logo.png" width="100"/>
