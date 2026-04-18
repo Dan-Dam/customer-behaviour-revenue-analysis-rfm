@@ -34,20 +34,7 @@ This project demonstrates how customer segmentation can:
 * Increase revenue through targeted strategies
 * Optimize marketing and discount decisions
 * Enable data-driven business growth
-
----
-
-## 📂 Project Structure
-
-```text
-customer-behaviour-revenue-analysis-rfm/
-│
-├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
-├── rfm_executive_visual.png
-├── inferaiq_logo.png
-├── inferaiq_banner_premium.png
-└── README.md
-
+  
 ---
 
 ## 🛠 Tools & Technologies
@@ -124,7 +111,9 @@ The chart below shows revenue distribution across customer segments, highlightin
 
 ## 📂 Project Structure
 
+```text
 customer-behaviour-revenue-analysis-rfm/
+│
 ├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
 ├── rfm_executive_visual.png
 ├── inferaiq_logo.png
