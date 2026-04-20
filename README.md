@@ -2,7 +2,7 @@
   <img src="./inferaiq_banner.png" width="1000"/>
 </p>
 
-<h1 align="center">Customer Behaviour & Revenue Analysis Using RFM Segmentation</h1>
+<h1 align="center">Customer Behaviour & Revenue Optimization Using RFM Segmentation</h1>
 </p>
 
 ---
@@ -73,6 +73,20 @@ This project demonstrates how customer segmentation can:
 
 ---
 
+## 📄 Case Study
+
+A comprehensive consulting-style case study presenting a structured analysis of customer segmentation, revenue concentration, and actionable business recommendations using RFM methodology.
+
+🔍 Key Highlights:
+- Customer segmentation using RFM (Recency, Frequency, Monetary)
+- Identification of high-value and at-risk customer segments
+- Revenue concentration analysis aligned with Pareto principles
+- Strategic recommendations for retention and revenue growth
+
+👉 [View Full Case Study (PDF)](./customer-behaviour-revenue-optimization-rfm-case-study.pdf)
+
+---
+
 ## 📈 Business Impact
 
 * Enables targeted marketing for high-value customers
@@ -100,7 +114,7 @@ The chart below shows revenue distribution across customer segments, highlightin
 </p>
 
 <p align="center">
-  <em>Revenue concentration across customer segments (RFM Analysis)</em>
+  <em>Customer Revenue Concentration by Segment (RFM Analysis)</em>
 </p>
 
 ---
