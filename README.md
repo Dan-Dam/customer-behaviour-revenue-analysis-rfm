@@ -136,6 +136,7 @@ customer-behaviour-revenue-analysis-rfm/
 │
 ├── Customer_Behaviour_and_Revenue_Analysis_Superstore_RFM.ipynb
 ├── rfm_executive_visual.png
+├── customer-behaviour-revenue-optimization-rfm-case-study.pdf
 ├── inferaiq_logo.png
 ├── inferaiq_banner_premium.png
 └── README.md
@@ -143,6 +144,15 @@ customer-behaviour-revenue-analysis-rfm/
 
 ---
 
+## 🌐 Connect With Me
+
+Let’s connect and collaborate on data-driven solutions, analytics, and AI-driven insights.
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/dan-dam-amosun  
+- 💻 GitHub: https://github.com/Dan-Dam  
+- 📧 Email: dandamamosun@icloud.com
+
+---
 
 ## 👤 Author
 **Daniel Damilola Amosun**  
