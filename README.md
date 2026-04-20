@@ -149,7 +149,6 @@ customer-behaviour-revenue-analysis-rfm/
 Let’s connect and collaborate on data-driven solutions, analytics, and AI-driven insights.
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/dan-dam-amosun  
-- 💻 GitHub: https://github.com/Dan-Dam  
 - 📧 Email: dandamamosun@icloud.com
 
 ---
